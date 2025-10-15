@@ -1,0 +1,1 @@
+/home/thosvarley/Code/100-Days-Of-Rust/Week-01/Day-05_Pair-Of-Socks/pairs_or_socks/target/debug/pairs_or_socks: /home/thosvarley/Code/100-Days-Of-Rust/Week-01/Day-05_Pair-Of-Socks/pairs_or_socks/src/main.rs
